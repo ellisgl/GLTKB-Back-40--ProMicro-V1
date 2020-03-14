@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 358)
+    (drawings 357)
     (tracks 646)
     (zones 0)
     (modules 98)
@@ -5521,7 +5521,6 @@
     )
   )
 
-  (gr_poly (pts (xy 158.948571 117.276661) (xy 155.972006 114.300096) (xy 159.543884 114.300096)) (layer F.SilkS) (width 0.1))
   (gr_poly (pts (xy 163.115762 121.443852) (xy 162.520449 122.039165) (xy 155.376693 114.895409) (xy 155.972006 114.300096)) (layer F.SilkS) (width 0.1))
   (gr_text "GeekLab Technologies GLTKB-Back-40%-Pro-Micro V1.0.0" (at 135.731364 44.648475) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
